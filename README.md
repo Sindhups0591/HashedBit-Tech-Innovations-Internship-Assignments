@@ -1,1 +1,1 @@
-# HashedBit-Tech-Innovations-Assignments
+# HashedBit-Tech-Innovations-Intern-Assignments
